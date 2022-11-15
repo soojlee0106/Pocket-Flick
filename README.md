@@ -1,2 +1,3 @@
-# Movie-recommender
-ML program that provides movie recommendations, based on ratings.
+# Pocket-Flick 📽️
+
+ML program that provides movie recommendations, based on plots.
