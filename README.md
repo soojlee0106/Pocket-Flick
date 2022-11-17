@@ -28,4 +28,7 @@ Run the command below.
 python -m streamlit run [gui.py]
 ```
 
+![image](https://user-images.githubusercontent.com/104475739/202358714-a7d4f29d-14e7-4231-b604-2bb4f1e8fdd9.png)
+
+
 The UI should be on <http://localhost:8501/>
