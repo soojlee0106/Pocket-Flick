@@ -5,7 +5,7 @@ ML program that provides movie recommendations, based on plots.
 ## Used Data
 
 This model is trained using the TMDB 5000 Movie Dataset.
-The link to the dataset can be found in <https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata>.
+The link to the dataset can be found in <https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata>. The model is inpired by Ibtesam Ahmed's code <https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system>.
 
 ## Main algorithm
 
