@@ -22,3 +22,8 @@ def get_recommendations(title, cosine_sim=cosine_sim):
     sim_scores = sim_scores[1:11]
     movie_indices = [i[0] for i in sim_scores]
     return df2['title'].iloc[movie_indices]
+
+
+print("Enter the title of the movie you like.")
+user_input = str(input())
+print(get_recommendations(user_input))

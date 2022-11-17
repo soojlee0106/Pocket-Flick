@@ -19,3 +19,13 @@ Contains the model that gives recommendation on plot similarity.
 
 - plot.py  
 Maps out chart that shows most popular films depending on IMDB ratings.
+
+## Local UI development
+
+Run the command below.
+
+```sh
+python -m streamlit run [gui.py]
+```
+
+The UI should be on <http://localhost:8501/>
