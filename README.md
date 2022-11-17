@@ -11,3 +11,11 @@ The link to the dataset can be found in <https://www.kaggle.com/datasets/tmdb/tm
 
 This model uses the basic weighted rating formula for IMDB.  
 NLP is also used to find the similarity of the movie plots to recommend.
+
+## File Information
+
+- movie.py  
+Contains the model that gives recommendation on plot similarity.
+
+- plot.py  
+Maps out chart that shows most popular films depending on IMDB ratings.
