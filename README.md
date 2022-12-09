@@ -1,6 +1,8 @@
 # Pocket-Flick 📽️
 
-ML program that provides movie recommendations, based on plots.
+ML program that provides movie recommendations, based on plots.  
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Used Data
 
